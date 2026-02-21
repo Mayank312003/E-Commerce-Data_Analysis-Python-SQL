@@ -2,11 +2,11 @@
 This repository contains a comprehensive Exploratory Data Analysis (EDA) of an E-Commerce dataset using Python and SQL (MySQL).
 The project focuses on extracting actionable business insights regarding customer distribution, sales performance, and payment trends.
 
-# 📊 Project Overview
+## 📊 Project Overview
 The objective of this project is to analyze an e-commerce database to understand market trends and customer behavior. 
 It involves building an ETL pipeline to connect Python with a MySQL database, executing complex queries, and visualizing the results to support data-driven decision-making.
 
-# 🚀 Features & Key Insights
+## 🚀 Features & Key Insights
 The analysis answers critical business questions, including:
 
 **Customer Geography:** Identification of unique customer cities and states to understand market reach.
@@ -19,7 +19,7 @@ The analysis answers critical business questions, including:
 
 **Demographic Distribution:** Visualization of customer concentration across different states.
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 **Database:** MySQL (Relational Database Management)
 
 **Programming:** Python 
@@ -28,7 +28,7 @@ The analysis answers critical business questions, including:
 Matplotlib & Seaborn: Advanced data visualization and plotting.
 mysql-connector-python: Database connectivity and ETL processing.
 
-# 📊 Business Questions Answered
+## 📊 Business Questions Answered
 This analysis addresses the following key questions:
 1. Unique cities where customers are located
 2. Number of orders placed in 2017
@@ -46,7 +46,7 @@ This analysis addresses the following key questions:
 14. Customer retention rate (repeat purchase within 6 months)
 15. Top 3 highest-spending customers per year
 
-# ⚙️ Setup & Installation
+## ⚙️ Setup & Installation
 1. **Database Setup:** Import the e-commerce CSV files into your MySQL environment.
 
 2. **Configuration:** Update the connection parameters in the notebook:-
@@ -62,14 +62,14 @@ db = mysql.connector.connect(
 
 **3. Run the Analysis:** Execute the cells in E-Commerce-Exploratory Data Analysis.ipynb to generate the insights and visualizations.
 
-# 💡Learning Outcomes
+## 💡Learning Outcomes
 Through this project, I practiced:
 1. Real-world business data analysis
 2. Translating business questions into data queries
 3. Identifying trends and patterns in transactional data
 4. Communicating insights from data
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 **Mayank Yadav**
 
 **Aspiring Data Analyst | Data Scientist**
