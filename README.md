@@ -41,8 +41,8 @@ This analysis addresses the following key questions:
 
 # ⚙️ Setup & Installation
 1. **Database Setup:** Import the e-commerce CSV files into your MySQL environment.
-2. **Configuration:** Update the connection parameters in the notebook:
-**Python:**{
+2. **Configuration:** Update the connection parameters in the notebook:-
+Python{
 db = mysql.connector.connect(
     host = "localhost",
     username = "root",
@@ -61,6 +61,7 @@ Through this project, I practiced:
 
 # 👨‍💻 Author
 **Mayank Yadav**
+
 **Aspiring Data Analyst | Data Scientist**
 
 ⭐ If you found this useful
