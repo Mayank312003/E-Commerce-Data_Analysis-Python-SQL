@@ -8,6 +8,7 @@ It involves building an ETL pipeline to connect Python with a MySQL database, ex
 
 # 🚀 Features & Key Insights
 The analysis answers critical business questions, including:
+
 **Customer Geography:** Identification of unique customer cities and states to understand market reach.
 
 **Sales Trends:** Quantitative analysis of order volumes, such as identifying that 45,101 orders were placed in 2017 alone.
@@ -19,8 +20,10 @@ The analysis answers critical business questions, including:
 **Demographic Distribution:** Visualization of customer concentration across different states.
 
 # 🛠️ Technologies Used
-**Database:** MySQL (Relational Database Management) 
+**Database:** MySQL (Relational Database Management)
+
 **Programming:** Python 
+
 **Libraries:** Pandas & NumPy: Data manipulation and structured analysis.
 Matplotlib & Seaborn: Advanced data visualization and plotting.
 mysql-connector-python: Database connectivity and ETL processing.
@@ -45,6 +48,7 @@ This analysis addresses the following key questions:
 
 # ⚙️ Setup & Installation
 1. **Database Setup:** Import the e-commerce CSV files into your MySQL environment.
+
 2. **Configuration:** Update the connection parameters in the notebook:-
 
 Python
