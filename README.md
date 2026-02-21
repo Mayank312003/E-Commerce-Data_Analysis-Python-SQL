@@ -40,8 +40,8 @@ This analysis addresses the following key questions:
 15. Top 3 highest-spending customers per year
 
 # ⚙️ Setup & Installation
-**1.** **Database Setup:** Import the e-commerce CSV files into your MySQL environment.
-**2.** **Configuration:** Update the connection parameters in the notebook:
+1. **Database Setup:** Import the e-commerce CSV files into your MySQL environment.
+2. **Configuration:** Update the connection parameters in the notebook:
 **Python:**{
 db = mysql.connector.connect(
     host = "localhost",
@@ -58,3 +58,10 @@ Through this project, I practiced:
 2. Translating business questions into data queries
 3. Identifying trends and patterns in transactional data
 4. Communicating insights from data
+
+# 👨‍💻 Author
+**Mayank Yadav**
+**Aspiring Data Analyst | Data Scientist**
+
+⭐ If you found this useful
+Give this repo a star.
