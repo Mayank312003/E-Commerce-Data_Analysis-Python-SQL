@@ -9,9 +9,13 @@ It involves building an ETL pipeline to connect Python with a MySQL database, ex
 # 🚀 Features & Key Insights
 The analysis answers critical business questions, including:
 **Customer Geography:** Identification of unique customer cities and states to understand market reach.
+
 **Sales Trends:** Quantitative analysis of order volumes, such as identifying that 45,101 orders were placed in 2017 alone.
+
 **Product Performance:** Revenue breakdown by product category, identifying top performers like Bed Table Bath ($1.7M+) and Furniture Decoration ($1.4M+).
+
 **Payment Analysis:** Evaluation of payment methods, revealing that nearly 100% of orders involved installment plans.
+
 **Demographic Distribution:** Visualization of customer concentration across different states.
 
 # 🛠️ Technologies Used
