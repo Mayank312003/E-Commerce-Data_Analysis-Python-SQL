@@ -42,14 +42,16 @@ This analysis addresses the following key questions:
 # ⚙️ Setup & Installation
 1. **Database Setup:** Import the e-commerce CSV files into your MySQL environment.
 2. **Configuration:** Update the connection parameters in the notebook:-
-Python{
+
+Python
+
 db = mysql.connector.connect(
     host = "localhost",
     username = "root",
     password = "YOUR_PASSWORD",
     database = "ecommerce"
 )
-}
+
 **3. Run the Analysis:** Execute the cells in E-Commerce-Exploratory Data Analysis.ipynb to generate the insights and visualizations.
 
 # 💡Learning Outcomes
