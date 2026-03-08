@@ -20,11 +20,11 @@ The analysis answers critical business questions, including:
 - **Demographic Distribution:** Visualization of customer concentration across different states.
 
 ## 🛠️ Technologies Used
-**Database:** MySQL (Relational Database Management)
+- **Database:** MySQL (Relational Database Management)
 
-**Programming:** Python 
+- **Programming:** Python 
 
-**Libraries:** Pandas & NumPy: Data manipulation and structured analysis.
+- **Libraries:** Pandas & NumPy: Data manipulation and structured analysis.
 Matplotlib & Seaborn: Advanced data visualization and plotting.
 mysql-connector-python: Database connectivity and ETL processing.
 
